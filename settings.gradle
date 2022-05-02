@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Lab7"
+rootProject.name = "k2022_04_22_Lab7"
 include ':app'
